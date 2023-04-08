@@ -17,7 +17,7 @@
   ],
   "books": [
     {
-      "id"=1,
+      "id": 1,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
@@ -25,55 +25,54 @@
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
-      "borrowed": false,
+      "borrowed": false
     },
     {
-    "id"=2,
-    "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61c5DaQttjL._SX412_BO1,204,203,200_.jpg",
-    "book_name": "Big Ideas Simply Explained",
-    "author": "Raina Bajaj",
-		"genre": "science",
-		"edition": "2019",
-		"publisher": "Bloomsbury",
-		"cost": 359,
-		"borrowed": false,
-  },
-  {
-    "id"=3,
-    "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A14VAyvYsTL.jpg",
-    "book_name": "Books That Changed History",
-    "author": "James Naughtie",
-		"genre": "history",
-		"edition": "2015",
-		"publisher": "Bloomsbury",
-		"cost": 1243,
-		"borrowed": false,
-  },
-  {
-    "id"=4,
-    "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41AmgYr-aVL.jpg",
-    "book_name": "Top 100 ultimate useful tech advice",
-    "author": "Rushikesh Mahendra Myana",
-		"genre": "tech",
-		"edition": "2010",
-		"publisher": "Bloomsbury",
-		"cost": 1500,
-		"borrowed": false,
-  },
-  {
-    "id"=5,
-    "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Mw850UIpL.jpg",
-    "book_name": "The Book on Small Business Ideas",
-    "author": "Justin Gesso",
-		"genre": "business",
-		"edition": "2008",
-		"publisher": "Bloomsbury",
-		"cost": 750,
-		"borrowed": false,
-  }
-  
-],
-    
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61c5DaQttjL._SX412_BO1,204,203,200_.jpg",
+      "book_name": "Big Ideas Simply Explained",
+      "author": "Raina Bajaj",
+      "genre": "science",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 359,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A14VAyvYsTL.jpg",
+      "book_name": "Books That Changed History",
+      "author": "James Naughtie",
+      "genre": "history",
+      "edition": "2015",
+      "publisher": "Bloomsbury",
+      "cost": 1243,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41AmgYr-aVL.jpg",
+      "book_name": "Top 100 ultimate useful tech advice",
+      "author": "Rushikesh Mahendra Myana",
+      "genre": "tech",
+      "edition": "2010",
+      "publisher": "Bloomsbury",
+      "cost": 1500,
+      "borrowed": false
+    },
+    {
+      "id": 5,
+      "image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Mw850UIpL.jpg",
+      "book_name": "The Book on Small Business Ideas",
+      "author": "Justin Gesso",
+      "genre": "business",
+      "edition": "2008",
+      "publisher": "Bloomsbury",
+      "cost": 750,
+      "borrowed": false
+    }
+  ],
+
   "admin": [
     {
       "id": 1,
